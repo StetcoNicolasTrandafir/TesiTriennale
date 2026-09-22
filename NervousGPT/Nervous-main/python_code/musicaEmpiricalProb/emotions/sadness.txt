@@ -1,0 +1,14 @@
+#Numero di attributi:
+
+Melancholy: 1
+Reflective: 1
+Profound: 1
+Painful: 1
+
+Depressive: 0.899
+Nostalgic: 0.5946
+Heartbroken: 0.5946
+#Cheerful: 0.9414
+#Positive: 0.6616
+#Optimistic: 0.6616
+#Carefree: 0.5559

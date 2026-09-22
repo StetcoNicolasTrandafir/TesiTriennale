@@ -1,0 +1,14 @@
+#Numero di attributi:
+
+Threatening: 1
+Tense: 1
+Anxious: 1
+
+Alarming: 0.5912
+Paralizing: 0.6138
+#Cheerful: 0.7301
+#Relaxing: 0.7037
+#Reassuring: 0.6348
+#Fun: 0.5912
+#Optimistic: 0.6187
+#Carefree: 0.6187

@@ -1,0 +1,117 @@
+
+## 1. Gioia (Joy)
+ 
+  - Energizzante
+  - Positiva
+  - Festosa
+  - Allegra
+  - Vivace
+  - Solare
+  - Rilassante
+  - Ottimista
+  - Upbeat
+  - Euforica
+  - Leggera
+  - Espansiva
+  - Motivante
+
+## 2. Fiducia (Trust)
+ 
+  - Sicura
+  - Stabile
+  - Leale
+  - Protettiva
+  - Calda
+  - Accogliente
+  - Sostenitrice
+  - Empatica
+  - Intima
+  - Rassicurante
+  - Familiare
+  - Collaborativa
+
+## 3. Paura (Fear)
+ 
+  - Minacciosa
+  - Oscura
+  - Tesa
+  - Intensa
+  - Ansiosa
+  - Adrenalinica
+  - Preoccupante
+  - Evasiva
+  - Allarmante
+  - Frenetica
+  - Sconvolgente
+  - Inquietante
+
+## 4. Sorpresa (Surprise)
+ 
+  - Imprevedibile
+  - Inaspettata
+  - Sbalorditiva
+  - Eccitante
+  - Sconvolgente
+  - Curiosa
+  - Viva
+  - Scoppiettante
+  - Stuzzicante
+  - Divertente
+  - Energica
+
+## 5. Tristezza (Sadness)
+ 
+  - Melanconica
+  - Riflessiva
+  - Pesante
+  - Profonda
+  - Sospirante
+  - Mesta
+  - Nostalgica
+  - Depressiva
+  - Cuore spezzato
+  - Lenta
+  - Ponderata
+  - Lacrimosa
+
+## 6. Disgusto (Disgust)
+ 
+  - Repulsiva
+  - Aspra
+  - Cruda
+  - Tagliente
+  - Rude
+  - Nauseante
+  - Dura
+  - Insofferente
+  - Allontanante
+  - Sprezzante
+  - Offensiva
+
+## 7. Rabbia (Anger)
+ 
+  - Furiosa
+  - Intensa
+  - Aggressiva
+  - Determinata
+  - Energica
+  - Frustrante
+  - Impetuosa
+  - Rivolta
+  - Dominante
+  - Potente
+  - Confrontativa
+  - Esplosiva
+
+## 8. Attesa (Anticipation)
+  - Sospesa
+  - Curiosa
+  - Incerta
+  - Tesa
+  - Ansiosa
+  - Speranzosa
+  - Preparativa
+  - Previsionale
+  - Esplorativa
+  - Cauta
+  - Vigilante

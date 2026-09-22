@@ -1,0 +1,12 @@
+#Numero di attributi:
+
+Suspended: 1
+Curious: 1
+Uncertain: 1
+Optimistic: 1
+
+Hopeful: 0.6405
+Anxious: 0.6375
+#Immediate: 0.5747
+#Threatening: 0.523
+#Painful: 0.5098

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2">
+  <graph mode="static" defaultedgetype="undirected">
+    <nodes>
+      <node id="Joy" label="Joy"/>
+      <node id="Trust" label="Trust"/>
+      <node id="Fear" label="Fear"/>
+      <node id="Surprise" label="Surprise"/>
+      <node id="Sadness" label="Sadness"/>
+      <node id="Disgust" label="Disgust"/>
+      <node id="Anger" label="Anger"/>
+      <node id="Anticipation" label="Anticipation"/>
+    </nodes>
+    <edges>
+      <edge id="0" source="Joy" target="Trust" weight="2"/>
+      <edge id="1" source="Joy" target="Fear" weight="1"/>
+      <edge id="2" source="Joy" target="Sadness" weight="1"/>
+      <edge id="3" source="Trust" target="Fear" weight="2"/>
+      <edge id="4" source="Trust" target="Anticipation" weight="1"/>
+      <edge id="5" source="Fear" target="Surprise" weight="3"/>
+      <edge id="6" source="Fear" target="Sadness" weight="2"/>
+      <edge id="7" source="Surprise" target="Sadness" weight="1"/>
+      <edge id="8" source="Surprise" target="Disgust" weight="1"/>
+      <edge id="9" source="Sadness" target="Anger" weight="2"/>
+      <edge id="10" source="Disgust" target="Anger" weight="1"/>
+      <edge id="11" source="Anticipation" target="Fear" weight="2"/>
+    </edges>
+  </graph>
+</gexf>

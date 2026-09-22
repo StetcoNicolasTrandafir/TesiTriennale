@@ -1,0 +1,127 @@
+GIOIA
+  - Melanconica
+  - Riflessiva
+  - Pesante
+  - Profonda
+  - Dolorosa
+  - Repulsiva
+  - Cruda
+  - Immediata
+  - Minacciosa
+  - Tesa
+  - Paralizzante
+  - Furiosa
+  - Intensa
+  - Determinata
+  - Impulsiva
+
+
+
+FIDUCIA
+  - Minacciosa
+  - Paralizzante
+  - Imprevedibile
+  - Immediata
+  - Melanconica
+  - Riflessiva
+  - Pesante
+  - Profonda
+  - Dolorosa
+  - Repulsiva
+  - Aspra
+  - Cruda
+  - immediate
+  - Furiosa
+  - Intensa
+  - Determinata
+  - Impulsiva
+  - Incerta
+  - Evasiva
+  - Allarmante
+
+
+PAURA:
+  - Positiva 
+  - Allegra 
+  - Benefica 
+  - Ottimista 
+  - Sicura 
+  - Stabile 
+  - Rassicurante 
+  - Rilassante
+  - Spensierata
+  - Divertente
+
+
+TRISTEZZA:
+  - Positiva 
+  - Allegra 
+  - Benefica 
+  - Ottimista
+  - Sicura 
+  - Stabile 
+  - Leale 
+  - Sostenitrice  
+  - Sospesa 
+  - Curiosa 
+  - Spensierata
+  - Rassicurante 
+
+ASPETTATIVA:
+  - Imprevedibile
+  - Inaspettata 
+  - Stupefacente 
+  - Immediata 
+  - Minacciosa 
+  - Tesa 
+  - Ansiosa 
+  - Melanconica 
+  - Riflessiva
+  - Pesante 
+  - Profonda 
+  - Dolorosa
+
+SORPRESA
+  - Leggerezza
+  - Rassicurante
+  - Rilassante
+  - Sicura
+  - Stabile
+  - Familiare
+  - Spensierata
+
+DISGUSTO:
+  - Curiosa 
+  - Positiva 
+  - Allegra 
+  - Benefica 
+  - Ottimista 
+  - Espansiva
+  - Accogliente   
+  - Rilassante
+  - Leggerezza
+  - Dolce
+  - Calda
+
+
+RABBIA:
+  - Paralizzante 
+  - Positiva 
+  - Allegra 
+  - Benefica 
+  - Ottimista 
+  - Rilassante
+  - Leggerezza 
+  - Spensierata 
+  - Dolce 
+  - Divertente 
+  - Lenta
+  - Cauta 
+  - Calda 
+  - Rassicurante 
+  - Speranzosa 
+
+
+
+
+

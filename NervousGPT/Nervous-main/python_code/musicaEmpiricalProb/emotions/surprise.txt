@@ -1,0 +1,15 @@
+#Numero di attributi:
+
+Uncertain: 1
+Unexpected: 1
+Amazing: 1
+Immediate: 1
+
+Exciting: 0.99
+Curious: 0.7088
+Stimulating: 0.5912
+Shocking: 0.5597
+#Cautious: 0.5534
+#Resignation: 0.5633
+#Nostalgic: 0.5738
+Positive: 0.578

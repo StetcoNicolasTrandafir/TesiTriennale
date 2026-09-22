@@ -1,0 +1,14 @@
+#Numero di attributi:
+
+Furious: 1 
+Intense: 1
+Determined: 1
+Impulsive: 1
+
+Impulsive: 0.7282
+Frustrating: 0.6616
+#Relaxing: 0.7023
+#Cheerful: 0.5559
+#Sweet: 0.5559
+#Ease: 0.5426
+Energetic: 0.5318

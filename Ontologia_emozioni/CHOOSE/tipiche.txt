@@ -1,0 +1,163 @@
+
+## 1. Gioia (Joy)
+  - Vivace
+  - Solare
+  - Rilassante
+  - Ottimista
+  - Upbeat
+  - Euforica
+  - Leggera
+  - Espansiva
+  - Motivante
+
+## 2. Fiducia (Trust)
+
+  - Calda
+  - Accogliente
+  - Sostenitrice
+  - Empatica
+  - Intima
+  - Rassicurante
+  - Familiare
+  - Collaborativa
+
+## 3. Paura (Fear)
+
+  - Ansiosa
+  - Adrenalinica
+  - Preoccupante
+  - Evasiva
+  - Allarmante
+  - Frenetica
+  - Sconvolgente
+  - Inquietante
+
+## 4. Sorpresa (Surprise)
+
+  - Eccitante
+  - Sconvolgente
+  - Curiosa
+  - Viva
+  - Scoppiettante
+  - Stuzzicante
+  - Divertente
+  - Energica
+
+## 5. Tristezza (Sadness)
+
+  - Sospirante
+  - Rassegnazione
+  - Nostalgica
+  - Depressiva
+  - Cuore spezzato
+  - Lenta
+  - Ponderata
+  - Lacrimosa
+
+## 6. Disgusto (Disgust)
+
+  - Tagliente
+  - Rude
+  - Nauseante
+  - Dura
+  - Insofferente
+  - Allontanante
+  - Sprezzante
+  - Offensiva
+
+## 7. Rabbia (Anger)
+
+  - Energica
+  - Frustrante
+  - Impetuosa
+  - Rivolta
+  - Dominante
+  - Potente
+  - Confrontativa
+  - Esplosiva
+
+## 8. Attesa (Anticipation)
+
+  - Tesa
+  - Ansiosa
+  - Speranzosa
+  - Preparativa
+  - Previsionale
+  - Esplorativa
+  - Cauta
+  - Vigilante
+
+
+1. Gioia (Joy)
+Vivace - Lively
+Solare - Sunny
+Rilassante - Relaxing
+Ottimista - Optimistic
+Upbeat - Upbeat
+Euforica - Euphoric
+Leggera - Light
+Espansiva - Expansive
+Motivante - Motivating
+2. Fiducia (Trust)
+Calda - Warm
+Accogliente - Welcoming
+Sostenitrice - Supportive
+Empatica - Empathetic
+Intima - Intimate
+Rassicurante - Reassuring
+Familiare - Familiar
+Collaborativa - Collaborative
+3. Paura (Fear)
+Ansiosa - Anxious
+Adrenalinica - Adrenaline-filled
+Preoccupante - Worrisome
+Evasiva - Evasive
+Allarmante - Alarming
+Frenetica - Frenzied
+Sconvolgente - Disconcerting
+Inquietante - Unsettling
+4. Sorpresa (Surprise)
+Eccitante - Exciting
+Sconvolgente - Shocking
+Curiosa - Curious
+Viva - Alive
+Scoppiettante - Sparkling
+Stuzzicante - Stimulating
+Divertente - Fun
+Energica - Energetic
+5. Tristezza (Sadness)
+Sospirante - Sighing
+Mesta - Mournful
+Nostalgica - Nostalgic
+Depressiva - Depressive
+Cuore spezzato - Heartbroken
+Lenta - Slow
+Ponderata - Thoughtful
+Lacrimosa - Tearful
+6. Disgusto (Disgust)
+Tagliente - Cutting
+Rude - Rude
+Nauseante - Nauseating
+Dura - Harsh
+Insofferente - Intolerant
+Allontanante - Distant
+Sprezzante - Scornful
+Offensiva - Offensive
+7. Rabbia (Anger)
+Energica - Energetic
+Frustrante - Frustrating
+Impetuosa - Impulsive
+Rivolta - Rebellious
+Dominante - Dominating
+Potente - Powerful
+Confrontativa - Confrontational
+Esplosiva - Explosive
+8. Attesa (Anticipation)
+Tesa - Tense
+Ansiosa - Anxious
+Speranzosa - Hopeful
+Preparativa - Preparatory
+Previsionale - Predictive
+Esplorativa - Exploratory
+Cauta - Cautious
+Vigilante - Vigilant

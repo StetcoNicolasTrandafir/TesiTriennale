@@ -1,0 +1,13 @@
+#Numero di attributi:
+
+Repulsive: 1
+Intense: 1
+Immediate: 1
+
+Nauseating: 0.907
+Scornful: 0.581
+#Welcoming: 0.7032
+#Positive: 0.5912
+#Cheerful: 0.6138
+#Sweet: 0.5743
+#Optimistic: 0.5628

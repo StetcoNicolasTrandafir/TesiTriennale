@@ -1,0 +1,60 @@
+NUMERO TOTALE ATTRIBUTI: 50
+
+Attributo: numero di volte che compare positivo, numero di volte che compare negato 
+
+Positiva: 3, 1
+Allegra: 1, 3
+Benefica: 1, 0
+Ottimista: 4, 2
+Energica: 1, 1 
+Spensierata: 1, 2
+Dolorosa: 1, 2
+Minacciosa: 1, 3
+Melanconica: 1, 1
+Leggerezza: 1, 1
+Rassicurante: 1, 1
+Accogliente: 1, 1
+Intima: 1, 0
+Empatica: 1, 0
+Calda: 1, 0
+Allarmante: 1, 1
+Incerta: 1, 1
+Tesa: 1, 0
+Ansiosa: 2, 0
+Paralizzante: 1, 0
+Rilassante: 0, 2
+Divertente: 1, 1
+Imprevedibile: 1, 0
+Inaspettata: 1, 0
+Stupefacente: 1, 0
+Immediata: 2, 1
+Eccitante: 1, 0
+Curiosa: 2, 0
+Stuzzicante: 1, 0
+Nostalgica: 1, 1
+Rassegnazione: 0, 1
+Cauta: 0, 1
+Sconvolgente: 0, 1
+Riflessiva: 1, 0
+Profonda: 1, 0
+Depressiva: 1, 0
+Cuore spezzato: 1, 0
+Repulsiva: 1, 0
+Intensa: 2, 0
+Nauseante: 1, 0
+Sprezzante: 1, 0
+Dolce: 0, 2
+Furiosa: 1, 0
+Determinata: 1, 0
+Impulsiva: 1, 0
+Impetuosa: 1, 0
+Frustrante: 1, 0
+Sospesa: 1, 0
+Incerta: 2, 1
+Speranzosa: 1, 0
+
+
+
+
+
+

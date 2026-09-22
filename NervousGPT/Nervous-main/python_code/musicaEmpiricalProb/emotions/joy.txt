@@ -1,0 +1,13 @@
+#Numero di attributi:
+
+Positive: 1
+Cheerful: 1
+Beneficial: 1
+Optimistic: 1
+Energic: 0.8597
+Carefree: 0.6463
+Fun: 0.6155
+#Painful: 0.8901
+#Threatening: 0.7143
+#Melancholy: 0.5633
+Ease: 0.5236

@@ -1,0 +1,416 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+
+\title{Spoty-emotions}
+\author{Stetco Nicolas Trandafir}
+\date{April 2025}
+
+\begin{document}
+\maketitle
+\newpage
+\tableofcontents
+\newpage
+
+
+
+\newpage
+\section{Introduction}
+
+\newpage
+\section{Abstract}
+
+\newpage
+\section{Emotions}
+\subsection{What is an emotion?}
+Emotions are complex psychological reactions of the organism that represent an immediate response to and internal or external stimulus.\\
+There is not a definition universally used or recognised, but it can be said they are adaptive responses and mechanisms, shaped by nature and evolution to chase well being and to increase surivaval and reproduction odds. \\
+From the evolutionary prospective, each emotion is meant to prepare body and mind for some specific situations and needs, for example:
+\begin{itemize}
+    \item fear prepares the body to escape from a potentially dangerous situation
+    \item anger mobilizes energies needed to face a threat 
+    \item joy enhance rewarding behaviors and reinforces social bonds
+    \item sadness promotes introspection and the search for help or support
+\end{itemize}
+To frame a little bit better what an emotion is exactly, we define it using 3 components:
+\begin{itemize}
+    \item \textbf{Physiological}: each emotion is associated with some specific bodily changes. For instance, fear or anger are associated with an increase of the heart rate, adrenaline release, muscle tension and sweating, all changes in the body meant to prepare it to fight or flight 
+    \item \textbf{Cognitive}: emotions are not objective and mechanical reactions but they involve a subjective evaluation of the situation. This means that emotions depends on how each individual sees and interprets events and the world. In other words, the emotional background and the prior experiences of everyone shapes the emotions we feel, and what can be frightening  for someone can be exiting for someone else
+    \item \textbf{Behavioral}: emotions tend to manifest through a set of observable actions and body language signals: facial expressions, tone of voice, posture or movements. 
+\end{itemize}
+\subsection{Ekman’s theory}
+Beside the fact that emotions depends on priori experiences, personal interpretation and cultural context, there is a broad consensus across the scientific about a set of basic and \textbf{primary emotions} (\textit{anger, fear, disgust, sadness, joy, and surprise}), recognizable and consistent across time and culture.\\
+His work and theory is focused on facial expression, in particular on the analysis of the muscles involved and associated with each emotion, according to the idea that each emotion provoke a specific physical response he formalized the \textbf{Facial Action Coding System (FAC)}.
+Another important point emphazited bty Ekman is that, while triggers and interpretation may be very various and depending by culture of personal experiences, the emotion itself is a biological structure rooter in all human beings, as universal and innate mechanisms.
+
+
+
+\subsection{Plutchik wheel}
+One of the models used to formalize, read an see the emotions, is the \textbf{Plutchik wheel}, developed in the 1980s.\\
+It gives a visual and conceptual framework for understanding how the 8 primary emotions (Plutchik recognise \textit{Trust} and \textit{Anticipation} as primary emotions, adding 2 extra elements to Ekman's framework) relate to each other in terms of intensity, polarity and combinations.\\
+\begin{figure}[h!]
+  \centering
+  \includegraphics[width=0.6\textwidth]{wheel.png} % <-- cambia il nome con il tuo file
+  \caption{Plutchik's Wheel of Emotions}
+  \label{fig:plutchik}
+\end{figure}
+\\
+Beyond the visual framework to read and understand the 8 primary emotions, it also introduces the concept of secondary emotions, arised from the combinations of 2 adjacent  emotions, enhancing how the 8 primary emotions are not isolated and static states but complex and dynamic interactions between many factors that evolve over time.\\
+For instance, the combinations of \textit{JOY} and \textit{TRUST} give rise to \textbf{\textit{LOVE}}, while  \textit{ANTICIPATION} and \textit{FEAR} may lead to \textbf{\textit{ANXIETY}}.
+Still, it does not give e complete overview of all the possible states or the different human feelings, it lacks of even more complex emotions such as \textit{SHAME}, but is an excellent starting point to formalize the most significant and important human emotions in term of evolution and survival.
+
+\subsubsection{Structure and composition}
+
+The multi dimensional and colored wheel designs a pairing and an opposition with each petal placed across the direct opposite.\\
+Additionally, each petal is divided in three concentric layers that express the varying intensity of the corresponding emotion.\\
+Beyond the individual emotions, the wheel also foresees and encodes the merge and the combination of adjacent emotions, fading the concept of 8 primary emotions into more complex secondary emotions, which follows the same intensity and polarity logic of the starting 8 petals.\\
+The circular layout and structure can be summarized as follows:
+
+
+
+\begin{itemize}
+    \item Each primary emotion is represented by a petal (E.G. \textit{JOY})
+    \item The inner rings indicate greater intensity, the more you read towards the outer part of the petal the lower is the intensity of the respective emotion (E.G.\textit{SERENITY → JOY → ECSTASY}) 
+    \item Adjacent emotions' combinations represent the secondary emotions, and their intensity are formalized in the same way of the primary's (E.G \textit{DISAPPOINTMENT} is the intersection of \textit{SURPRISE} and \textit{SADNESS})
+    \item Opposite emotions lie directly across from each direction (E.G \textit{JOY and SADNESS})
+\end{itemize}
+
+\subsubsection{Criticism and limitations of the model}
+If on one hand this model offers a simple and intuitive to visualize and map emotion's structure, it does not come without limitations.\\
+One of the  most quoted critiques is the oversimplifications of the emotional spectrum: as mentioned before, beside the 8 primary emotions, their intensity gradient and the combinations of the adjacent ones, it lacks of more complex and rooted in social construction emotions (e.g. \textit{nostalgia, shame, pride...}).\\
+Those emotion has an important role in human behavior and evolution, even if it does not fit in Plutchik fixed model.\\
+Another point subject of discussion and controversy is the rigid spacial arrangement of the petals: if may be conceptually helpful having the opposition, the distance and the proximity of the differentt emotions, it also take for granted the existence of a fixed opposition between emotions (\textit{SADNESS vs JOY} or \textit{ANTICIPATIONS vs SURPRISE}), while actually humans emotional experience is not as binary as showed in this framework.\\
+First at all there is no clear and objective opposition, and furthermore, depending on the personal experience and different other factors, opposite emotions may coexist in nuanced ways that the wheel does not accommodate. \\
+Furthermore, another critique linked with the spacial visualization, is that there is no formal way to measure distance or transition between emotions (E.G. the progression from \textit{SERENITY} to \textit{ECSTASY} is logical and conceptual, but lacks of a way to measure the shift) 
+\newpage
+
+
+\section{Ontology and explainable AI}
+\subsection{What is ontology?}
+\subsubsection{Definition and historical context}
+
+In the broadest possible sense, ontology was born as the branch of philosophy that studies the nature of being and existence.\\
+The etimology of the word derives from the Greek \textit{"ontos"} (being), and \textit{"logos"} (study, speech), and is a theme explored by thinkers from Aristotele's time in the optic of presenting and defining the reality by its \textit{essence}, describing each entity with the traits and the attributes that the particoular entity cannot fail to have.\\
+So this discipline has been a core subject in metaphysics for centuries as an approach to answer fundamental questions like: \textit{"What entities exist? How can we categorize them? What are the properties that leads me to define the entity? What are the relationship between entities?"}\\
+Just at the end of the 19th century, began to shift from abstract and purely philosophical topic to a formalized and structured discipline.\\
+The big steps that were occouring in the mathematical logic field, allowed a rigorous rapresentation and definition of concepts and relationships  between them.\\
+Ontology as a scientific framework took an important leap forward in the second half of 20th century with the rise of computer science and artificial intelligence.\\
+During this time, pioneers of AI focused in knowledge rapresentation in order to create a structured model of reality understandable by machines.
+
+
+\subsubsection{Ontology as a formal rapresentation of reality}
+In computer science, ontology refers to the formal representation of knowledge in a specific context or domain, defining concepts, relationships and rules in a way that enhance human interpretation beside the possibility of being handled by AI for logical inference.
+The key components of an ontology are:
+\begin{enumerate}
+    \item \textbf{Classes (or concepts)}: the categories of types of entities in a domain.\\
+    E.G.: In the "emotive recommendation system", some of the classes may be \textit{Song} or \textit{Emotion} 
+    
+    \item \textbf{Instances}: a specific object which belongs to a class\\E.G.: "\textit{Three little birds}" belongs to the \textit{Song} class
+    \item \textbf{Relations}: information about how different concepts are connected and interact, they may be also hierarchical\\E.G.: \textit{Rap} is part of \textit{Hip hop}
+    \item \textbf{Attributes (or properties)}: Describe the properties and the characteristics of concepts and instances\\E.G.: "\textit{Three little birds}" may be described as "\textit{Relaxing}" or "\textit{Carefree}"
+    \item \textbf{Logical rules and constrains}: Definition of how reasoning have to be performed \\E.G.: if a song is described as \textit{Carefree}, it is more likely to be categorized as evoking \textit{Trust}.
+\end{enumerate}
+This framework to structure information into an explicit, interpretable format, is a way to bridge the gap between human-readable knowledge and machine-executable reasoning, and this makes ontology an important and useful tool for shifting AI towards a direction which needs transparency and explainability.
+
+
+\subsection{The Challenge of Black Box AI Models}
+\subsubsection{Neural networks and black box models}
+The exponential technological improvements of the last few decades, have made unprecedented computational power and computing infrastructures available, enabling the large-scale application and the mass adoption of machine learning (ML) and deep learning (DL) models.\\
+With data center's expansion, the distributes architectures and GPU's becoming more and more performing, these models became more and more powerful, allowing autonomous systems to compute and analyze huge amount of data, recognizing and discovering complex patterns and making prevision with high accuracy.\\
+This evolution revolutionized and improved several fields of computer science and AI, including NLP, recommendations systems, computer vision...\\
+However, NNs in particular, are designed to process the input data through multiple layers, all of which add an increasing level of abstraction in the meaning of data.\\
+This high level of abstraction leads to big difficulties in the interpretation of the process between the input and the output: the lack of understanding and the inability to clearly explain how the model arrived, from the millions of the input parameters, to that particular output, is  know as the \textbf{black box problem}, "black box" is, in fact, how commonly called this kind of models with an high level of opacity between input and output.\\
+
+\subsubsection{The importance of understanding AI's decisions}
+Sometimes the accuracy in the output has the priority compared to understanding the processes that led to that particular conclusion.\\
+In some other situations, the clarity in those processes is as important as the correctness of the result itself.\\
+Besides the difficulties that lack of clarity brings into the debugging and model improvement activities, a major transparency is needed to really trust the output by the point of view of the user.\\
+Is enough thinking about the weight of many decisions taken by AI in safety-critical applications: automated medical diagnosis, self-driving cars, criminal justice and predictive policing... \\
+This is the reason why, many industries are subject to restrictions in AI usage, and are pushed to regulations about interpretability and verifiability.\\
+Also the GDPR is moving to enforce and guarantee the "\textit{right to explaination}".
+
+\subsubsection{Biases and algorithmic discrimination}
+So this kind of models and algorithms are able to find, discover and predict patterns with an high level of accuracy,  but  with the trade off of not having a clear idea of the way they arrived to the conclusion or the correlation found inside the training data.\\
+This may be dangerous.\\
+If the used data reflects any kind of bias or systematic discrimination, the model will learn to reproduce them, enhancing social discriminations or errors made in the historical of the application context of the model. 
+Here some examples:
+\begin{itemize}
+    \item \textbf{Filter Bubbles or the Echo Chamber}: one of the biggest theme concerning recommendation systems, is when the algorithm present just contents which reinforce users belief and existing preferences, creating a self-reinforcing cycle that limits the exposure to different contents, information and points of view.\\ Systems which analyse users' behaviors are able to propose contents which are aligned with the tastes of users that have similar tastes, making the experience extremely personalized, but at the same time victim of the reinforcing confirmation bias, facilitating polarization, radicalization, social fragmentation and  spread misinformation.
+    \item \textbf{Reinforcing Bias in automated decision-making}: when training data is dense of discriminations, AI replicates and amplifies them since they are just statistical patterns without any kind of logic or ethic.\\ The hiring process for positions where, historically talking, the male predominance is important, is a great example of how automated systems may discard female candidates without considerating what is really important and relavant for the position.\\ Another example may be found in a legal court context where, again, we can observe how different categories have been penalized through history: statistically talking you are much more likely to be considered innocent or o have a reduced sentence if you are a Caucasian white male, while other categories are more likely to be considered guilty or having heavier sentences. 
+    \item \textbf{Algorithmic discrimination}: what if, instead of reproducing discriminations already rooted in our society, AI finds patterns and correlations between data which are note really meaningfull? \\This is another kind of problem that we have to consider when we use models that lacks of transparency.\\ The risk is reproducing patterns which are not really important for the purpouse  of the model, for example in the bank credit scoring models: systems may indirectly discriminate people coming from a certain geographical area because dense of people with low income or ethnic minorities, denying the loan despite the individual income of the person. 
+\end{itemize}
+
+The risk of presenting these skewnesses, combined with the typical difficulties of black box model in understanding where is the error and correcting it,  enhance the need of more transparency in the decision process of autonomous systems which will be more and more present in all the aspects of our everyday life, from the recommendation of entertainment contents to decision related to your health or freedom.  
+
+%\subsection{Structured knowledge in AI systems}
+\subsection{ Explainable AI (XAI) and ontologies}
+
+In this frame, where AIs make inference from statistics in found inside data, without having a proper reasoning process which involves logic or ethic, is clear how important is becoming shifting from this black box approach towards something more human-like, easier to understand and interpretate. \\
+By this point of view, ontology introduce semantic reasoning, enabling systems to go way beyond simple correlations between data by establishing and structuring knowledge and actual correlation between concepts.\\
+This approach is particularly valuable in every domain where are fundamental explainability, consistency and reasoning.\\
+For instance, in the medical field, ML models may be accurate the diagnosis recognizing statistical patterns between symptoms, but without being able to explain the underlying medial reasoning.\\
+On the other side, ontology enables AI to reason logically, as it follows:
+\begin{enumerate}
+    \item Shortness of breath suggests reduced oxygen levels, which could indicate heart failure
+    \item if heart failure is suspected, investigate underlying causes such as hypertension or coronary artery disease.
+    \item For patients with coronary artery disease, recommend lifestyle changes and appropriate medications.
+    \item \textit{"This patient is at risk of coronary artery disease because shortness of breath indicates potential heart failure linked to hypertension."}
+    \item \textit{"We recommend statins as the patient's cholesterol levels are high, increasing the risk of arterial blockage."}
+\end{enumerate}
+Ontology-based AI systems fall within the category of so-called \textit{Explainable AI} (\textbf{XAI}), the set of methods and techniques that put the focus on making the decisional process understandable to humans.\\
+This kind of approach accentuates the cause and effect reasoning: the explicit representation of knowledge provide to resolution procedure some  intriscic justification which helps to make internal logic of AIs ubnderstandable to non-technical stakeholders, final users, policymakers, experts in the sector and beyond.
+\subsubsection{Types of XAI methods}
+Of course ontology is not the only way to achieve these objectives: talking about XAI, there are two main categories of methods to add interpretability to our models, these are \textit{Post-Hoc Explanations (PHE)} and \textit{By-Design Interpretability (BDI)}.
+The first ones stand on analyzing models already trained, trying to find explainations without altering the internal structure of the model itself.
+Some of the common approaches are:
+\begin{itemize}
+    \item \textbf{Local Interpretable Model-agnostic Explanations (LIME)}: this technique is based on the idea of explaining the individual prediction by locally approximating a complex  model using a simpler, interpretable one. \\Creating a more understandable model which, in a small neighborhood around the input istance behaves similary to the black box one, gives the possibility to have an accurate prediction but at the same time understandable.\\
+    \item \textbf{Shapley Additive Explanations (SHAP)}: based on game theory, aims to explain any kind of ML model by quantifying the contribute that each feature gave to the prediction.\\It wieghts every feature by calculating every possible combinations of inpout feature (the difference in the prediction when a feature is included or excluded is called the \textit{marginal contribution} of the feature).\\
+    At this point the prediction is expressed as:
+    \[
+f(x) = \phi_0 + \sum_{i=1}^{M} \phi_i
+\]
+Where $\phi_0$ is the base value, the prediction with no feature known, $\phi_i$ the value of the $i$-th feature, in other words the contribution that the feature gives to the actual prediction, and $M$ is the total number of features.
+With this framework is easier to understand how much and how the singular feature weighted on the result.
+
+    \item \textbf{Feature Importance Analysis}: this approach aims to rank the importance of features on the model's output.\\Despite SHAP, it works globally on the model itself instead of the single prediction, so the criteria of the importance of the feature is determined in a different way, depenging of the algorithm of the model.\\
+    For example in a decision tree a feature may be considered important if it is frequently used to split data and leads to significant reduction in impurity (\textit{impurity} stands for the measure of how well each split separates the data)
+\end{itemize}
+The other category of XAI methods, By-Design Interpretability,  reverses the paradigm of interpetating the output that are not clear by structuring the inner logic in a way that results transparent and logical also for an human eye.\\
+Exaples of AI interpretable by design are:
+\begin{itemize}
+    \item \textbf{Decision trees and rule based systems}: this kind of approach uses structures where decisions are taken from a features, so the structure of the tree itselff and/or the rule set works as explaination for the result
+    \item \textbf{Linear models}: this is a class of algotirhms which makes predictions based on a linear combination of input features: the simple mathematical structure of this kind of models, besinde being easy to implement and often requiring a just few computional resuources, is  also east to interpet and explain also to non techincal users
+    \item \textbf{Ontologies}: as mentioned before, the structured knowledge of represantation used to define concepts and relationship within a specific domain, allows logical and consistent reasoning which are clear and trasnsparent also for the the end users
+\end{itemize}
+One thing to consider before implementing and using a XAI model, the interpretable by design ones in particular, is that the trade off for the clearness that they give, is often an accuracy that is reduced if compared with other models that maybe are less understandable and transparent.
+Again, the domain and the particular use case is very important to make the best choise of the model: what is really important in this particular context? Is more important being more on avarage precise, or better understanding the output? Are there any risks in not having clear why a certain result? May the lack of trasparancy be a problem?\\
+Understanding what is the priority and the needs dictated by the application context is for sure the first step to make the best choice in term of the approach to adopt.
+
+
+\subsubsection{So... why choosing otnologies?} %titolo da cambiare che è orrendo
+At this point, is clear that using ontology is just one of the many ways to make more transparent and understandable the outcome of AI.\\
+Nevertheless, among all the methods, it is particularly commendable by virtue of a bunch of reasons summarized here:
+\begin{itemize}
+    \item The explicit knowledge represantation and logical reasoning, the explicit definition of relationships between concepts, make clear how inferences are make, ensuring logical consistency and preventing contradictions or bias propagation
+    \item Ontology based models are understandable by techincals and beyond, making possible to everyone to understand, audit and challenge its output. By this point of view, not only the trust is increased because of the explaination, but also the end-user can understand why he received that particular ouput and, in case it is not correct, where is the error.
+    \item The clear and logical justification for decision, promote a more democratic, ethical and traceable usage of AI. Gapping the bridge between human reasoning and machine inference, is possible to manual adjust the errors which lead to discrimination, ensuring fairness and a model that works aligned to the values of our society today, and not one which amplifies the inequities that characterized our past
+    \item unlike machine learning models, where new data or new rules are introduced, ontologies offer dynamic integrations of the new knowledge without altering or disrupting the inner structure of the model. The possibility for the experts to update the model with new rules and concepts emerged during time, makes the model highly flexible and adaptable.  
+\end{itemize}
+\newpage
+
+
+\section{Generation of new ontological knowledge}
+\subsection{The starting model}
+For the process of ontological definition of emotions, which is the core of this paper, Plutchik’s looked to be the best starting point by virtue of its structure, logical symmetry and capacity to represent and visualize combinations and relationship between emotions.\\
+Other models where considered for the purpose, such as Ekman's or Russell’s circumplex model.\\
+The first one focuses on the recognition of 6 basic and universal emotions, emotions that go beyond cultural or personal backgrund, and each emotion is associated with a set of universal facial expression.\\
+While it offers a strong empirical and biological grounding, it lacks of means of logical representation of relationships between emotions, intensity gradients or blending, not the best assumptions for defining ontological hierarchies.
+The second one, instead, introduces a two dimensional space where emotions are located according to their valence (positive/negative) and arosual (activation level).\\
+The X axes measure the valence of the emotion, the righter the emotion is arranged, the most pleasant the emotions, while the Y axes keep track of the arousal of the emotion: the higher the emotion is located, the most it involves a phisical activation and body response.\\
+If this approach is very weel suitable for dimensional analysis and predictions, its non-symbolic and non-discrete nature makes it less compatible with the building of ontological logics, which requires ways to identify classes, relations, constraints  and semantic inference.
+
+\newpage
+\begin{figure}
+    \centering
+    \includegraphics[width=0.5\linewidth]{Russels's model.png}
+    \caption{Russel's model}
+    \label{fig:Russels's model}
+\end{figure}
+
+On the contrary, Plutchik’s framework has all thos desirable characteristics by design: it uses discrete categories, is formalize intensity levels, and already foresees combinatorial logics, all features makes this model particularly powerfull to structure new emotional reasoning and to create new ontological knowledge on the top of it.
+
+
+\subsection{Definition of emotions}
+Once decided the reference model was established, the next step was established, the next step was about giving to it an ontological definition and formalization, goal reached with the help of a series of interviews and discussions held with current and former psychology students.\\
+The conversations aimed to answer 3 core questions:
+\begin{enumerate}
+    \item Which emotions of the model should we include? Should we consider all the emotions mentioned in the wheel, including the different combinations and intensity gradients? Should we consider just the 8 primary emotions? 
+    \item Can we find out, for each emotion, a set of attributes which are intrinsic to the emotion itself, necessary for its existence (\textbf{rigid attributes})?
+    \item  Can we identify, for each emotion, a larger set of attributes that are not strictly required, but that are frequently associated with the emotion (\textbf{typical attributes})? How can we estimate and decide this frequency? This set, complemented with the rigid one, can describe and formalize the concept of the emotion?
+\end{enumerate}
+
+Answering these questions is not trivial, the formalization of something which by nature is deeply subjective, contextual and culturally rooted took extensive discussions, taking always in consideration both the technical and the psychological  considerations.\\
+A important point where a compromise between human richness and computational feasibility was touched talking about how many emotions to use and,indicatively, how many attributes were needed to describe the emotion.\\
+The final decision was to use the 8 primary emotions of the wheel: no intensity gradient and no secondary emotions.\\
+This solution is meant to give the possibility to build a manageable and scalable base for future works, with the awareness of how much it can be expanded and enriched.\\
+Since the combinations of the different emotions grows factorially  (the algorithm to create the new ontologies has O(n!) complexity), the introduction of other 8 emotions or even their intensity gradients would make this process computationally too expensive.\\
+The next step is the identification of the rigid attributes, the set of properties considered intrinsically linked to the essence of the emotion, indispensable for its definition and essence.\\
+A series of conceptual exercises done with colleagues from the psychology department enlighted the small core set of essential attributes for each entity.\\
+These attributes were not picked based on frequency in common usage or perception, but rather on their ontological and biological role: the concept of \textit{fear}, for instance, cannot  exist or be meaningfull without a sense of \textit{threat, danger}, as well as \textit{joy} is a concept deeply rooter in some form of \textit{pleasure, positivity}.\\
+The rigid attributes were associated to the emotion as it follows:
+\begin{itemize}
+    \item \textbf{\textit{Anger:}}\textit{Furious, Intense, Determined, Impulsive}
+    \item \textbf{\textit{Anticipation:}}\textit{Suspended, Curious, Uncertain, Optimistic}
+    \item \textbf{\textit{Disgust:}}\textit{Repulsive, Intense, Immediate}
+    \item \textbf{\textit{Fear:}}\textit{Tense, Threatening, Anxious}
+    \item \textbf{\textit{Joy:}}\textit{Positive, Cheerful, Beneficial, Optimistic}
+    \item \textbf{\textit{Sadness:}}\textit{Melancholy, Reflective, Profound, Painful}
+    \item \textbf{\textit{Surprise:}}\textit{Uncertain, Unexpected, Amazing, Immediate}
+    \item \textbf{\textit{Trust:}}\textit{Positive, Beneficial}
+\end{itemize}
+
+After defining the rigid attributes, the next step is the identification of typical attributes, concepts frequently associated with the subjective human experience of the emotion, in order to enrich the ontological definition and description of the emotions.\\
+For this purpose, we designed and distributed a survey where, for each of the 8 primary emotions, were presented two complementary questions:
+\begin{itemize}
+    \item \textit{Which of these attributes best describe your subjective experience of JOY?}
+    \item \textit{Which of these attributes are most inconsistent with your subjective experience of JOY?}
+\end{itemize}
+
+For each question, a list of attributes that had been arbitrarily selected based on logical reasoning and conceptual intuition, for the first of the two questions the set of attributes is consistent with the emotion, while the one of the second question is purposefully in contrast with the emotion.\\
+The dual-question was meant to capture both the positive but also the negative associations, in order to make the ontological structure richer and more expressive.\\
+The need of negative attributes was not born only with the purpose of a richer and human-friendly formalization, but is also the reflex of the need of using overlapping attributes to describe de different emotions: describing each emotion with a set of attributes that are not used for the others, would be maybe understandable and easy for human reading, but for computational and for making inference.\\
+Now, since describing two opposite concepts with the same words may be difficult and confusing, the negations help us a lot with this.\\
+For instance, saying that \textit{JOY} is \textit{Relaxing}, and that \textit{ANGER} is \textit{Unnerving}, may be better expressed (for our purpose) saying that \textit{ANGER} is \textit{\textbf{NOT} Relaxing}.\\
+In this way, we reduced the language used to describe our universe, and using the same words to describe different concepts they are more meaningful and expressive, computationally talking.\\
+Once collected the responses, for each emotion were taken the attributes (positive or negated) that were selected by at least the 60\%  of the participants, ensuring a statistical feedback, and after normalizing and refining a little bit the results (a little bit of extra work was made to ensure consistency and fall in contradictions describing the single emotions), we ended up with an ontological profile for each emotions, including rigid attributes, typical ones, and a frequency for each typical attributes which represents the frequency with which that concept has been associated with the emotion.\\
+Here is how we described \textit{JOY} for example:\\\\
+Rule 1: joy - Positive == POSITIVE\\
+Rule 2: joy - Cheerful == POSITIVE\\
+Rule 3: joy - Optimistic == POSITIVE\\
+Rule 4: joy - Depressive == NEGATIVE\\
+Rule 5: T(joy) - Energic == POSITIVE : 0.8597\\
+Rule 6: T(joy) - Carefree == POSITIVE : 0.6463\\
+Rule 7: T(joy) - Fun == POSITIVE : 0.6155\\
+Rule 8: T(joy) - Reassuring == POSITIVE : 0.6\\
+Rule 9: T(joy) - Relaxing == POSITIVE : 0.65\\
+Rule 10: T(joy) - Painful == NEGATIVE : 0.8901\\
+Rule 11: T(joy) - Threatening == NEGATIVE : 0.7143\\
+Rule 12: T(joy) - Melancholy == NEGATIVE : 0.5633\\
+Rule 13: T(joy) - Anxious == NEGATIVE : 0.75\\
+Rule 14: T(joy) - Ease == POSITIVE : 0.6\\
+
+\subsection{Creation of new ontologies}
+Once defined and formalized the ontological structure of the eight primary emotions, the natural next step in the research was the generation of new, \textbf{hybrid emotions} by combining the existing ones in a coherent, logically consistent way.\\
+To implement this process, \textit{NervousGPT} mechanisms were reused, after minor modifications in the code and after adapting the input file in order to have the needed format, the same system that used for the creation of new musical genres, has been utilized to combine emotions and create new ontological knowledge.\\
+\subsubsection{Combination of emotions}
+The system considers all possible combination of two emotions, treating them asymmetrically, or rather one emotions take the role of \textit{Head}, the stronger and dominant component, and \textit{Modifier}, the weaker one.
+This distinction is important in the optic of preserving a core identity of the head, enriched and better specified by the modifier.\\
+This is reflected by the inheritance of the attributes: the newly created emotion inherits all the rigid attributes from both the starting emotions, and they may not be consistent, for example combining \textit{JOY} and \textit{SADNESS}, the resulting emotions could not be both \textit{Positive} and \textit{Depressive}, it falls of logical consistency.\\
+In this case, having a strong concept to take as a reference is useful, in the example, assuming \textit{JOY} is the head concept, \textit{Depressive} would have been discarded in the new combined emotion.\\
+\subsubsection{Generation of scenarios for typical attributes}
+After inheriting all the consistent attributes of both head and modifier concepts, the typical attributes are handled differently.\\
+Each emotions has a set of tyipcal attributes linked with the concept with a number, a frequency between 0.6 and 0.9, which wuold mean the frequency of association of that attributes with the specific concept.\\
+The inheritance process for the typical attributes consists in computing all the possible scenarios (meaning that is taken in consideration all the scenarios in which each attribute is included or not), chekcing if they are consistent or not.\\
+The system computes the concistency using the rigid and typical attributes, and it tryies to identify logical contraddictions through statistical inference.\\
+If a scenario is classified as incosistent, is discarderd.\\
+If not, a score is computed summing the frequencies of each attribute that is inclued in the single scenario.\\
+We consider as the "\textit{best scenario}" the consistent scenario that reaches the greatest sum of typical attributes scores.
+The resulting best scenario, for each couple of combined emotions, is the resulting new and hybrid emotion.\\
+The example that follows is the otput file of the best scenario for the combination of \textit{fear and joy}.\\
+[0, 1, 1, 1, 1, 1, 0, 3.3182]\\
+[<T(fear) -> Alarming == POSITIVE : 0.5912>, \\
+<T(fear) -> Paralizing == POSITIVE : 0.6138>, \\
+<T(fear) -> Reassuring == NEGATIVE : 0.6348>, \\
+<T(fear) -> Fun == NEGATIVE : 0.5912>, \\
+<T(fear) -> Carefree == NEGATIVE : 0.6187>, \\
+<T(joy) -> Energic == POSITIVE : 0.8597>, \\
+<T(joy) -> Melancholy == NEGATIVE : 0.5633>]\\
+[<fear -> Threatening == POSITIVE>, \\
+<fear -> Tense == POSITIVE>, \\
+<fear -> Anxious == POSITIVE>, \\
+<joy -> Positive == POSITIVE>, \\
+<joy -> Cheerful == POSITIVE>, \\
+<joy -> Beneficial == POSITIVE>]\\
+\\
+The output format is made up of 3 arrays.\\
+Starting from the last one, it simply contains the rigid attributes of both head and modifier concepts, since they are all inherited from both the starting emotions.\\
+The second one is the list of typical attributes of the starting emotions: each element of the array indiciates if the attributes comes from the head or the modifier, if the attribute is present in positive or negative form and finally the frequency associated with its starting emotion
+The first one is n+m+1 long, where n is the number of typical attributes of \textit{fear}, the head concept and m is the number typical attributes of \textit{joy}, the modifier.
+Each element of the array, made exception for the last one, indicates if the ith element of the 
+
+
+
+
+
+\section{NervousGPT}
+\subsection{What is NervousGPT?}
+NervousGPT is an ontology-driven music recommendation system, designed to provide suggestions based on structured knowledge representation, unlike the most of the traditional recommendation systems, that rely on statistical correlations and patterns in the preferences and behaviors of users with seemingly aligned interests.\\
+The system takes as input two musical genres selected by the user, and it returns a playlist where each song is accompanied by the reason why that particoular content was suggested.\\
+However, what makes this kind of system remarkable and appreciable, is that the \textbf{suggestions may not belong to either of the two input genres}.\\
+Instead of focusing strictly on the genre itself, the system uses the common characteristics of the genres to understand what the user actually appreciate, making the suggestion to look much more like the result of a human reasoning, allowing at the same time the listener to understand and validate the reccomendation.
+\subsection{Why using NervousGPT?}
+This kind of approach is particularly powerful not because of the accuracy of the output, but because of a bunch of reasons typical of XAIs and beyond, including:
+\begin{itemize}
+    \item the clearness of the result: each suggestion is accompained by a transparent explanation, and so the possibility to clearly see the connections between their preferences and the recommendations
+    \item outputs are always consistent and coherent, unlike black box systems where biases and contradictions are not only present, but often enhanced
+    \item it avoids biases like the chamber effect, where the suggestions are not really given based on user's tastes but on similar users' behaviors
+    \item the suggestions may introduce the user to new musical experiences since it does not base its logic on the genre itself, allowing the user to explore and discover new contents aligned with his tastes but out of his usual experience and comfort zone
+    \item unlike traditional ML models that require retraining when new data is introduced, NervousGPT seamlessly integrates new songs, genres, or attributes dynamically, without disrupting the existing structure. This ensures greater scalability, adaptability, and flexibility, allowing the system to evolve effortlessly as musical trends and user preferences change
+    
+\end{itemize}
+
+In conclusion, the design and the structure of this kind of systems, are built to move towards a more ethical, human centric and transparent AI, which are the goals and the necessary next steps that we have to take for a more aware and responsible use of tools and techonology.
+
+\subsection{Design and implementation}
+The system is designed to construct genre-based ontologies, which are then combined to create hybrid ontologies that merge the characteristics of two base genres. This approach enables the system to identify the specific attributes that the user appreciates in the selected genres and generate an output that accurately reflects these preferences.
+
+\subsubsection{Data coollection and genre characterization}
+The fundamentals of NervousGPT is built upon data scraped from https://www.allmusic.com/genre, which provides a representation of songs though a bunch of attributes.
+For example, here is reported how the song \textit{One love} by \textit{Bob Marley \& the Wailers} is defined:
+\begin{itemize}
+    \item Spiritual:                           0.9 : 9
+\item Earnest:                             0.8625 : 8
+\item Soothing:                            0.8625 : 8
+\item Rousing:                             0.8250000000000001 : 7
+\item Summery:                             0.8250000000000001 : 7
+\item Summer:                              0.8250000000000001 : 7
+\item Amiable/Good-Natured:                0.7875 : 6
+\item Relaxation:                          0.7875 : 6
+\item Revolutionary:                       0.7875 : 6
+\item Political Reggae:                    0.75 : 5
+\item Roots Reggae:                        0.75 : 5
+\item Earthy:                              0.75 : 5
+\item Laid-Back/Mellow:                    0.75 : 5
+\item Outraged:                            0.75 : 5
+\item Provocative:                         0.75 : 5
+\item Hanging Out:                         0.75 : 5
+\item Bittersweet:                         0.7125 : 4
+\item Gentle:                              0.7125 : 4
+\item  ... 
+
+\end{itemize}
+Where the number after the colon, the integer, is how many times that attributes has been used to describe the song, and is used to compute the number between 0.6 and 0.9 before the colon, which represents the probability with which the attribute is associated with the song.\\
+At this point, the system also gathered all the info needed to characterize each genre: computing the frequency distribution of the attributes within the songs of that genre.\\
+In this way each attribute is associated with a genre with a probability which is the of the relative frequency, normalized to stay in the 0.6-0.9 range, where the ones with frequency 0.9 are the rigid attributes.\\
+As result of this job, we end up with a represantation of songs and musical genres which define those entities with their characteristics, which reflects both the needs of a  probabilistics schema processable by a machine and the musical definition understandable by human beings.
+
+\subsubsection{Ontology creation and represantation}
+Once all genres are characterized in terms of attribute distributions, the system use this knowledge to formalize those entities into ontologies using \textbf{OWL (Web Ontologt Language)}, through \textit{Owlready2} Python library.\\
+Using the extraced attributes and relative probability as guide, each ontology encapsulates the essential musical traits of the genre.\\
+The next step to generate personalized music recommendations which are not limiteted to the liked genre, NervousGPT creates hybrid ontologies combining all musical genres two at a time: for each of them, a genre serve as the \textbf{head concept}, the primary genre, while the other, the \textbf{modifier}, represent the secondary genre.\\
+Tne new ontology created, is the result of the head and modifier merged following the rules below:
+\begin{itemize}
+    \item Rigid attributes are inherited by the head concept, ensuring in this way that tha main characteristics of the primary genre are preserved
+    \item Typical properties are inherited by both the head and the modifier concept, in order to introduce attributes that are probabilistically significant for the hybrid genre, but not exclusive to one in particular
+    \item Some attributes may generate contradictions (E.G. if the \textit{Electronic} genre is defined as \textit{Aggressive} and \textit{Reggae} as \textit{Calm}, the two attributes will likely generate a contradiction), to avoid it, NervousGPT uses Owlready2's functions to check the consistency of the new ontologies, preventing the possibility of having an hybring genre which contradict itself with its definition
+    \item The last step is computing which of the many possible combination of attributes, which does not present inconsistencies, gives the best probabilistic representation of the new hybrid genre. This final step is perfomed by computing all possible scenario, which correspond to the differen permutation of the merge between the two genres. Each permutation is the result of a combination where a specific set of attributes is either included or excluded from the hybrid class. 
+\end{itemize}
+
+\subsubsection{The reccomendation process}
+Once the hybrid ontologies are generated, the system can infer the user's musical preferences based on the two input genres.\\
+In this context, the system analyzes the merged ontology of the corresponding hybrid genre to extract the key attributes that define the combination.\\
+At this point, the original genre of the songs becomes irrelevant: the recommendation is generated by identifying songs, regardless of their genre, that share high-probability attributes with the hybrid genre, meaning those that align with the properties and characteristics of the selected input genres.\\
+This approach aims to provide personalized suggestions based on the specific attributes the user appreciates in musical content, rather than relying solely on genre classification.\\ As a result, the system can recommend songs that may not belong to either of the input genres but still reflect the qualities the user is likely to enjoy.
+Each recomendation comes with a brief summary of why that content was choosen. \\E.G.: selecting \textit{reggea} and \textit{jazz} as input genres, the first suggestion is \textit{Natty don't fear} by \textit{U-Roy} because '\textit{Both the combined genres and the song are really ['Freewheeling','Summery','Reggea roots'] and a bit ['Amiable/Good-Natured', 'PlayfulMode']}'.\\
+\newpage
+
+
+%--\section{Results and valutations}
+%--\subsection{Tests outcome and data analisys}
+%--\subsection{Limitations of the system and the tests}
+%--\newpage
+
+\section{Conclusion}
+\subsection{Next steps}
+\begin{itemize}
+    \item Migliore definizione delle ontologie delle emozioni (ho usato raccolto dati empirici e poi trattati per fittarli bene allo scopo)
+    \item Caratterizzazione delle emozioni, canzoni e generi musicali usando un linguaggio ed un set di attributi comuni, evitando il m,apping che pu; anche essere soggettivo
+    \item Coinvolgimento di tutte le emozioni in modo da offrire un suggerimento più sfaccettato, e fare lo stesso per capire le diverse sfaccettature dell'emozione
+    \item Capire non solo lo stato emotivo dell'utente ma anche in che direzione vorrebbe andare
+    \item Caratterizzazione delle canzoni in  maniera più sensata, occhio di riguardo per le discrepanze tra testo e ciò che la canzone comunica-
+   
+\end{itemize}
+
+\subsection{Possible future implications}
+
+\end{document}

@@ -1,0 +1,217 @@
+Emotion: Joy_Positive
+  Energica - Energic: 73 (64.6%)
+  Spensierata - Carefree: 61 (53.98%)
+  Divertente - Fun: 59 (52.21%)
+  Motivante - Motivating: 44 (38.94%)
+  Leggerezza - Ease: 38 (33.63%)
+  Eccitante - Ecxiting: 36 (31.86%)
+
+Emotion: Joy_Negative
+  #-Dolorosa - Painful: 75 (66.37%)
+  #-Minacciosa - Threatening: 65 (57.52%)
+  #-Melanconia - Melancholy: 56 (49.56%)
+  #-Repulsiva - Repulsive: 52 (46.02%)
+  #-Polarizances - Paralizing: 51 (45.13%)
+  #-Dura - Harsh: 37 (32.74%)
+
+SELECTED JOY:
+  Energica - Energic: 73 (64.6%)
+  Spensierata - Carefree: 61 (53.98%)
+  Divertente - Fun: 59 (52.21%)
+  #-Dolorosa - Painful: 75 (66.37%)
+  #-Minacciosa - Threatening: 65 (57.52%)
+  #-Melanconia - Melancholy: 56 (49.56%)
+
+===============================================================================================
+
+Emotion: Trust_Positive
+  Accogliente - Welcoming: 80 (71.43%)
+  Intima - Intimate: 70 (62.5%)
+  Empatica - Empathetic: 69 (61.61%)
+  Calda - Warm: 65 (58.04%)
+  Rilassante - Relaxing: 46 (41.07%)
+  Benefica - Beneficial: 45 (40.18%)
+
+Emotion: Trust_Negative
+  #-Minacciosa - Threatening: 61 (55.45%)
+  #-Allarmante - Alarming: 46 (41.82%)
+  #-Incerta - Uncertain: 46 (41.82%)
+  #-Repulsiva - Repulsive: 43 (39.09%)
+  #-Paralizzante - Paralizing: 41 (37.27%)
+  #-Imprevedibile - Unpredictable: 41 (37.27%)
+
+
+SELECTED TRUST:
+  Accogliente - Welcoming: 80 (71.43%)
+  Intima - Intimate: 70 (62.5%)
+  Empatica - Empathetic: 69 (61.61%)
+  Calda - Warm: 65 (58.04%)
+  #-Minacciosa - Threatening: 61 (55.45%)
+  [#-Allarmante - Alarming: 46 (41.82%)]
+  [#-Incerta - Uncertain: 46 (41.82%)]
+
+===============================================================================================
+
+Emotion: Fear_Positive
+  Ansiosa - Anxious: 86 (76.79%)
+  Allarmante - Alarming: 56 (50.0%)
+  Paralizzante - Paralizing: 52 (46.43%)
+  Inquietante - Unsettling: 50 (44.64%)
+  Preoccupante - Worrisome: 50 (44.64%)
+  Oscura - Dark: 41 (36.61%)
+
+Emotion: Fear_Negative
+  #-Allegra - Cheerful: 65 (58.56%)
+  #-Rilassante - Relaxing: 63 (56.76%)
+  #-Rassicurante - Reassuring: 57 (51.35%)
+  #-Divertente - Fun: 55 (49.55%)
+  #-Ottimista - Optimistic: 53 (47.75%)
+  #-Spensierata - Carefree: 53 (47.75%)
+
+
+SELECTED FEAR:
+  Ansiosa - Anxious: 86 (76.79%)
+  Allarmante - Alarming: 56 (50.0%)
+  #-Allegra - Cheerful: 65 (58.56%)
+  #-Rilassante - Relaxing: 63 (56.76%)
+  #-Rassicurante - Reassuring: 57 (51.35%)
+  #-Divertente - Fun: 55 (50.0%)
+
+===============================================================================================
+
+Emotion: Surprise_Positive
+  Eccitante - Exciting: 86 (76.79%)
+  Curiosa - Curious: 64 (57.14%)
+  Stuzzicante - Stimulating: 56 (50.0%)
+  Sconvolgente - Shocking: 55 (49.11%)
+  Positiva - Positive: 47 (41.96%)
+  Divertente - Fun: 44 (39.29%)
+
+Emotion: Surprise_Negative
+  #-Cauta - Cautious: 54 (48.65%)
+  #-Rassegnazione - Resignation: 52 (46.85%)
+  #-Nostalgica - Nostalgic: 46 (41.44%)
+  #-Sospirante - Sighing: 40 (36.04%)
+  #-Evasiva - Evasive: 31 (27.93%)
+  #-Rilassante - Relaxing: 31 (27.93%)
+
+
+SELECTED SURPRISE:
+  Eccitante - Exciting: 86 (76.79%)
+  Curiosa - Curious: 64 (57.14%)
+  Stuzzicante - Stimulating: 56 (50.0%)
+  [Sconvolgente - Shocking: 55 (49.11%)]
+  [#-Cauta - Cautious: 54 (48.65%)]
+  [#-Rassegnazione - Resignation: 52 (46.85%)]
+  [#-Nostalgica - Nostalgic: 46 (41.44%)]
+
+
+===============================================================================================
+
+
+Emotion: Sadness_Positive
+  Depressiva - Depressive: 76 (67.26%)
+  Nostalgica - Nostalgic: 57 (50.44%)
+  Cuore spezzato - Heartbroken: 57 (50.44%)
+  Lacrimosa - Tearful: 49 (43.36%)
+  Oscura - Dark: 37 (32.74%)
+  Rassegnazione - Resignation: 35 (30.97%)
+
+Emotion: Sadness_Negative
+  #-Allegra - Cheerful: 79 (69.91%)
+  #-Positiva - Positive: 62 (54.87%)
+  #-Ottimista - Optimistic: 62 (54.87%)
+  #-Spensierata - Carefree: 55 (48.67%)
+  #-Leggerezza - Ease: 49 (43.36%)
+  #-Rilassante - Relaxing: 37 (32.74%)
+
+
+SELECTED SADNESS:
+  Depressiva - Depressive: 76 (67.26%)
+  Nostalgica - Nostalgic: 57 (50.44%)
+  Cuore spezzato - Heartbroken: 57 (50.44%)
+  #-Allegra - Cheerful: 79 (69.91%)
+  #-Positiva - Positive: 62 (54.87%)
+  #-Ottimista - Optimistic: 62 (54.87%)
+  #-Spensierata - Carefree: 55 (48.67%)
+
+===============================================================================================
+
+
+Emotion: Disgust_Positive
+  Nauseante - Nauseating: 76 (67.86%)
+  Sprezzante - Scornful: 48 (42.86%)
+  Rude - Rude: 40 (35.71%)
+  Tagliente - Cutting: 39 (34.82%)
+  Offensiva - Offensive: 36 (32.14%)
+  Insofferente - Intolerant/Impatient: 27 (24.11%)
+
+Emotion: Disgust_Negative
+  #-Accogliente - Welcoming: 63 (56.25%)
+  #-Positivo - Positive: 56 (50.0%)
+  #-Allegro - Cheerful: 52 (46.43%)
+  #-Dolce - Sweet: 50 (44.64%)
+  #-Ottimista - Optimistic: 49 (43.75%)
+  #-Benefico - Benefical: 47 (41.96%)
+
+
+SELECTED DUISGUST:
+  Nauseante - Nauseating: 76 (67.86%)
+  [Sprezzante - Scornful: 48 (42.86%)]
+  [#-Accogliente - Welcoming: 63 (56.25%)]
+  [#-Positivo - Positive: 56 (50.0%)]
+  [#-Allegro - Cheerful: 52 (46.43%)]
+  [#-Dolce - Sweet: 50 (44.64%)]
+  [#-Ottimista - Optimistic: 49 (43.75%)]
+
+===============================================================================================
+
+Emotion: Anger_Positive
+  Impetuosa - Impulsive: 66 (58.41%)
+  Frustrante - Frustrating: 62 (54.87%)
+  Imprevedibile - Unpredictable: 49 (43.36%)
+  Adrenalinica - Adrenalinic: 47 (41.59%)
+  Energica - Energetic: 44 (38.94%)
+  Dura - Harsh: 44 (38.94%)
+
+Emotion: Anger_Negative
+  #-Rilassante - Relaxing: 64 (56.64%)
+  #-Allegra - Cheerful: 55 (48.67%)
+  #-Dolce - Sweet: 55 (48.67%)
+  #-Positiva - Positive: 49 (43.36%)
+  #-Ottimista - Optimistic: 47 (41.59%)
+  #-Leggerezza - Ease: 46 (40.71%)
+
+
+SELECTED ANGER:
+  Impetuosa - Impulsive: 66 (58.41%)
+  Frustrante - Frustrating: 62 (54.87%)
+  #-Rilassante - Relaxing: 64 (56.64%)
+  [#-Allegra - Cheerful: 55 (48.67%)]
+  [#-Dolce - Sweet: 55 (48.67%)]
+
+===============================================================================================
+
+Emotion: Anticipation_Positive
+  Speranzosa - Hopeful: 59 (53.64%)
+  Ansiosa - Anxious: 57 (51.82%)
+  Previsionale - Predictive: 44 (40.0%)
+  Cauta - Cautious: 41 (37.27%)
+  Motivante - Motivating: 39 (35.45%)
+  Esplorativa - Exploratory: 38 (34.55%)
+
+Emotion: Anticipation_Negative
+  #-Immediata - Immediate: 46 (44.66%)
+  #-Minacciosa - Threatening: 34 (33.01%)
+  #-Dolorosa - Painful: 32 (31.07%)
+  #-Dura - Harsh: 30 (29.13%)
+  #-Imprevedibile - Unpredictable: 23 (22.33%)
+  #-Ansiosa - Anxious: 20 (19.42%)
+
+
+SELECTED ANTICIPATION:
+  Speranzosa - Hopeful: 59 (53.64%)
+  Ansiosa - Anxious: 57 (51.82%)
+  [#-Immediata - Immediate: 46 (44.66%)]
+  [#-Minacciosa - Threatening: 34 (33.01%)]
+  [#-Dolorosa - Painful: 32 (31.07%)]

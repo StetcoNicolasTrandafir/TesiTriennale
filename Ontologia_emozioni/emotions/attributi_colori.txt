@@ -1,0 +1,18 @@
+-azzurrino: Positiva, Benefica, Leggerezza, Rassicurante, Rilassante, Cauta, Speranzosa, #Intensa, #Furiosa, #Tesa, #Dolorosa
+
+-blu fb: Melanconica, Incerta, Sospesa,Riflessiva,Cauta,Rassegnazione,Nostalgica
+
+-blu profondo:Dolorosa, Melanconica, Riflessiva, Profonda, Depressiva, Cuore spezzato, Intensa
+
+-nero: Dolorosa, Melanconia, Minaccioso, Allarmante, Incerta, Paralizzante, Profondo, Cuore spezzato, Depressivo, #Speranzosa, #Allegra, #Ottimista, #Positiva, #Divertente
+
+-bianco: Ottimista, Benefica, Spensierata, #Dolorsa, #Minacciosa , Leggerezza, Rassicurante, #Allarmante, #Incerta, #Tesa, #Depressiva, #Profonda, (Speranzosa)
+
+-arancione: Positiva, Ottimista, Energica, Rassicurante, Calda, Impulsiva, Speranzosa, #Dolorsa, #Minacciosa, Determinata
+ 
+-giallo: Ottimista, Spensierata, Leggerezza, Allegra, Energica, Imprevedibile, Stupefacente, Immediata, Eccitante, Impulsiva, Impetuosa, #Cauta, #Dolorsa, #Riflessiva
+
+-verde vomito: Impulsiva, Repulsiva, Intensa, Nauseante, #Dolce, Sconvolgente, #Accogliente, Immediata
+
+
+

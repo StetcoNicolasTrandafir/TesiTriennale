@@ -1,0 +1,56 @@
+Positiva:  Adult Alternative Pop/Rock; Affirmation; Amiable/Good-Natured;
+Allegra: AM Pop; Acid House; Adult Alternative Pop/Rock; Affirmation; Afro-Cuban Jazz; American Popular Song; Andean Folk;
+Benefica
+Ottimista: Affirmation; Ambitious;
+Energica: Acid House; Acid Rock; Acid Techno; Adventure; Affirmation; Afro-Cuban Jazz; Aggressive; Alternative Dance; Alternative Pop/Rock; Alternative Rap; Alternative/Indie Rock; Ambitious; Andean Folk;
+Spensierata: Acid House; Acid Techno;
+Dolorosa: AM Pop; Acerbic; Acoustic Blues; Acoustic Chicago Blues; Acoustic Memphis Blues; Acoustic Texas Blues; Adult Alternative;
+Minacciosa: Acerbic; Acid Rock; Acid Techno; Aggressive; Angry;
+Melanconica: AM Pop; Acerbic; Acoustic Blues; Acoustic Chicago Blues; Acoustic Memphis Blues; Acoustic Texas Blues; Adult Alternative;(Adult Alternative Pop/Rock;) Alternative Pop/Rock; Alternative/Indie Rock; Angst-Ridden;
+Leggerezza: Adult Alternative; Adult Alternative Pop/Rock; Adult Contemporary; Adult Contemporary R&B; Adventure; Affection/Fondness; Amiable/Good-Natured;
+Rassicurante: AM Pop; Adult Contemporary; Affection/Fondness; Afro-Cuban Jazz; Ambient House; American Popular Song; Andean Folk;
+Accogliente: AM Pop; Adult Alternative; Affection/Fondness; Ambient House;
+Intima: AM Pop; Adult Alternative; Adult Alternative Pop/Rock; Adult Contemporary; Adult Contemporary R&B; Affection/Fondness; Ambient; Ambient Dub; Ambient House; Ambient Pop; Ambient Techno; American Popular Song; Amiable/Good-Natured; Andean Folk;
+Empatica: Adult Alternative; Affection/Fondness; Amiable/Good-Natured;
+Calda: AM Pop; Adult Alternative; Adult Alternative Pop/Rock; Adult Contemporary; Adult Contemporary R&B; Affection/Fondness; Afro-Cuban Jazz; Ambient; Ambient House; Ambient Pop; American Popular Song; Amiable/Good-Natured; Amiable/Good-Natured; Andean Folk;
+Allarmante: Acerbic; Acid Rock;
+Incerta: Acerbic;
+Tesa: Acerbic; Acid Rock; Acid Techno; Aggressive; Angry; Angst-Ridden;
+Ansiosa: Acerbic; Acid Rock; Angst-Ridden; Trippy;
+Paralizzante:
+Rilassante:AM Pop; Adult Alternative Pop/Rock; Adult Contemporary; Adult Contemporary R&B; Ambient; Ambient Breakbeat; Ambient Dub; Ambient House; Ambient Pop; Ambient Techno; American Popular Song;
+Divertente: AM Pop; Acid House; Adult Alternative Pop/Rock; American Popular Song; Amiable/Good-Natured;
+Imprevedibile: Acid Rock; Acid Techno; Adventure; Afro-Cuban Jazz; Alternative Pop/Rock; Alternative Rap; Alternative/Indie Rock; Ambient Breakbeat;
+Inaspettata: Acid Rock; Acid Techno; Afro-Cuban Jazz; Alternative Dance; Alternative Pop/Rock; Alternative Rap; Alternative/Indie Rock;
+Stupefacente: Acid Rock; Acid Rock; Adventure; Afro-Cuban Jazz; Alternative Dance;
+Immediata: Acid House; Acid Techno; Afro-Cuban Jazz;
+Eccitante: Acid House; Acid Rock; Acid Techno; Adventure; Affirmation; Alternative Dance;  American Popular Song;Aggressive; Alternative Pop/Rock; Alternative Rap; Alternative/Indie Rock;
+Curiosa: Acid House; Acid Rock; Acid Techno; Adventure; Adventure; Alternative Dance; Alternative Pop/Rock; Alternative Rap; Alternative/Indie Rock;
+Stuzzicante: Acid House; Acid Rock; Acid Techno;
+Nostalgica: AM Pop; Adult Alternative; Adult Alternative Pop/Rock; Adult Contemporary; Adult Contemporary R&B; Affection/Fondness; Ambient Pop; American Popular Song; Andean Folk;
+Rassegnazione
+Cauta: Adult Alternative;
+Sconvolgente: Acerbic; Angry;
+Riflessiva: AM Pop; Acid Rock; Acoustic Blues; Acoustic Chicago Blues; Acoustic Memphis Blues; Acoustic Texas Blues; Adult Alternative; Adult Alternative Pop/Rock; Adult Contemporary; Adult Contemporary R&B; Alternative Pop/Rock; Alternative Rap; Alternative/Indie Rock; Ambient;
+Profonda: AM Pop; Acid Rock; Acoustic Blues; Acoustic Chicago Blues; Acoustic Memphis Blues; Acoustic Texas Blues; Adult Alternative; Ambient; Ambient Breakbeat; Ambient Pop; Andean Folk; Angst-Ridden;
+Depressiva: Acerbic; Adult Alternative; Angry; Angst-Ridden;
+Cuore spezzato: AM Pop; Acerbic; Acoustic Blues; Acoustic Chicago Blues; Acoustic Memphis Blues; Acoustic Texas Blues; Adult Alternative; Angry;
+Repulsiva: Acerbic;
+Intensa: Acid Rock; Aggressive; Alternative Dance; Alternative Pop/Rock; Alternative Rap; Alternative/Indie Rock; Ambient House; Ambient Techno; Ambitious; Angry;
+Nauseante
+Sprezzante: Acerbic;
+Dolce: AM Pop; Adult Contemporary; Affection/Fondness; Afro-Cuban Jazz; American Popular Song;
+Furiosa: Acerbic; Aggressive; Alternative Rap; Angry;
+Determinata: Acerbic; Acoustic Blues; Acoustic Chicago Blues; Acoustic Memphis Blues; Acoustic Texas Blues; Adventure; Affirmation; Afro-Cuban Jazz; Aggressive; Alternative Rap; Ambitious;
+Impulsiva: Acerbic; Acid House; Acid Techno; Afro-Cuban Jazz; Aggressive; Alternative Dance; Alternative Rap;
+Impetuosa: Acerbic; Acid House; Acid Techno; Afro-Cuban Jazz; Aggressive;
+Frustrante: Acerbic; Acoustic Blues; Acoustic Chicago Blues; Acoustic Texas Blues; Acoustic Memphis Blues; Adult Alternative; Aggressive; Angry;
+Sospesa: AM Pop; Acerbic; Acid Rock; Acid Techno; Acoustic Blues; Acoustic Chicago Blues; Acoustic Memphis Blues; Acoustic Texas Blues; Adult Alternative;  Alternative/Indie Rock; Ambient; Ambient Breakbeat; Ambient Dub; Ambient House; Ambient Pop; Ambient Techno; Angst-Ridden;
+Incerta: Acerbic; Acid Rock; Acid Techno; Adult Alternative; Angst-Ridden;
+Speranzosa: Acoustic Blues; Acoustic Chicago Blues; Acoustic Memphis Blues; Acoustic Texas Blues; Adult Alternative; Adventure; Affection/Fondness;
+
+
+
+
+
+

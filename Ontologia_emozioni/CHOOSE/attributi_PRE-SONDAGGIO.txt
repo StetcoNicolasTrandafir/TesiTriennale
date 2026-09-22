@@ -1,0 +1,194 @@
+
+## 1. Gioia (Joy)
+- *Attributi rigidi*:
+  - Positiva 
+  - Allegra 
+  - Benefica 
+  - Ottimista 
+- *Attributi tipici*:
+  - Energica 
+  (- Euforica )
+  - Motivante 
+  - Rilassante
+  - Leggerezza 
+  - Spensierata 
+  - Espansiva 
+  - Adrenalinica 
+  - Dolce 
+  - Empatica 
+  - Intima 
+  - Rassicurante 
+  - Divertente 
+  (- Viva )
+
+
+
+
+## 2. Fiducia (Trust)
+- *Attributi rigidi*:
+  - Rassicurante 
+  - Positiva
+  - Ottimista
+- *Attributi tipici*:
+  - Espansiva
+  - Calda 
+  - Allegra
+  - Empatica
+  - Intima
+  - Motivante 
+  - Speranzosa 
+  - Spensierata 
+  - Curiosa 
+  - Benefica 
+  - Rilassante
+  - Leggerezza
+  - Dolce
+  (- Previsionale )
+  - Incerta 
+  (- Profonda)
+
+## 3. Paura (Fear)
+- *Attributi rigidi*:
+  - Minacciosa 
+  - Tesa 
+  - Ansiosa 
+- *Attributi tipici*:
+  - Riflessiva 
+  - Immediata 
+  - Oscura 
+  - Intensa 
+  - Paralizzante 
+  - Adrenalinica
+  - Preoccupante 
+  - Evasiva 
+  - Allarmante 
+  - Inquietante 
+  - Dolorosa 
+  - Intima
+  - Viva
+  - Imprevedibile
+  - Profonda 
+
+
+## 4. Sorpresa (Surprise)
+- *Attributi rigidi*:
+  - Imprevedibile
+  - Inaspettata 
+  - Stupefacente 
+  - Immediata 
+- *Attributi tipici*:
+  - Eccitante 
+  - Sconvolgente 
+  - Curiosa 
+(  - Viva )
+  - Stuzzicante
+  - Divertente
+  - Energica
+  - Intensa
+  - Allegra
+  - Positiva
+  (- Euforica)
+  - Minacciosa
+  - Paralizzante
+  - Allarmante
+  - Scoppiettante 
+  - Esplorativa 
+
+
+
+## 5. Tristezza (Sadness)
+- *Attributi rigidi*:
+  - Melanconica 
+  - Riflessiva
+  - Pesante 
+  - Profonda 
+  - Dolorosa
+- *Attributi tipici*:
+  - Sospirante
+  - Nostalgica
+  - Deprimente 
+  - Cuore spezzato
+  - Lenta
+  - Lacrimosa
+  - Preoccupante
+  - Insofferente
+  - Repulsiva
+  - Intima
+  - Oscura
+  - Dura
+  - Evasiva
+
+
+
+## 6. Disgusto (Disgust)
+- *Attributi rigidi*:
+  - Repulsiva
+  - Intensa
+  - Immediata 
+- *Attributi tipici*:
+  - Pesante 
+  - Tagliente
+  - Rude
+  - Nauseante
+  - Dura
+  - Dolorosa
+  - Insofferente
+  - Minacciosa
+  - Paralizzante
+  - Evasiva
+  - Sconvolgente
+
+## 7. Rabbia (Anger)
+- *Attributi rigidi*:
+  - Furiosa
+  - Intensa
+  - Determinata
+  - Impulsiva
+- *Attributi tipici*:
+  - Riflessiva
+  - Pesante 
+  (- Aggressiva)
+  - Adrenalinica
+  - Repulsiva
+  - Energica
+  - Frustrante
+  - Insofferente
+  (- Esplosiva)
+  - Benefica
+  - Motivante 
+  - Intima
+  - Minacciosa
+  - Tesa
+  (- Viva)
+  - Evasiva
+  - Scoppiettante
+  - Dura
+  - Profonda)
+
+
+ 
+
+
+## 8. Attesa / Aspettativa (Anticipation)
+- *Attributi rigidi*:
+  - Sospesa 
+  - Curiosa 
+  - Incerta 
+  - Ottimista
+- *Attributi tipici*:
+  (- Tesa)
+  - Ansiosa
+  - Speranzosa
+  - Positiva
+  (- Previsionale )
+  (- Esplorativa )
+  - Cauta 
+  - Vigilante 
+  - Preoccupante
+  - Impaziente
+  (- Euforica)
+  - Motivante 
+  - Leggerezza
+  - Dolce
+  - Calda 
+  - Rassicurante 

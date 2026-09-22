@@ -1,0 +1,126 @@
+
+## 1. Gioia (Joy)
+- **Attributi rigidi**:
+  - Positiva
+  - Festosa
+  - Allegra
+- **Attributi tipici**:
+  - Energizzante
+  - Vivace
+  - Solare
+  - Rilassante
+  - Ottimista
+  - Upbeat
+  - Euforica
+  - Leggera
+  - Espansiva
+  - Motivante
+
+## 2. Fiducia (Trust)
+- **Attributi rigidi**:
+  - Sicura
+  - Stabile
+  - Leale
+  - Protettiva
+- **Attributi tipici**:
+  - Calda
+  - Accogliente
+  - Sostenitrice
+  - Empatica
+  - Intima
+  - Rassicurante
+  - Familiare
+  - Collaborativa
+
+## 3. Paura (Fear)
+- **Attributi rigidi**:
+  - Minacciosa
+  - Oscura
+  - Tesa
+  - Intensa
+- **Attributi tipici**:
+  - Ansiosa
+  - Adrenalinica
+  - Preoccupante
+  - Evasiva
+  - Allarmante
+  - Frenetica
+  - Sconvolgente
+  - Inquietante
+
+## 4. Sorpresa (Surprise)
+- **Attributi rigidi**:
+  - Imprevedibile
+  - Inaspettata
+  - Sbalorditiva
+- **Attributi tipici**:
+  - Eccitante
+  - Sconvolgente
+  - Curiosa
+  - Viva
+  - Scoppiettante
+  - Stuzzicante
+  - Divertente
+  - Energica
+
+## 5. Tristezza (Sadness)
+- **Attributi rigidi**:
+  - Melanconica
+  - Riflessiva
+  - Pesante
+  - Profonda
+- **Attributi tipici**:
+  - Sospirante
+  - Mesta
+  - Nostalgica
+  - Depressiva
+  - Cuore spezzato
+  - Lenta
+  - Ponderata
+  - Lacrimosa
+
+## 6. Disgusto (Disgust)
+- **Attributi rigidi**:
+  - Repulsiva
+  - Aspra
+  - Cruda
+- **Attributi tipici**:
+  - Tagliente
+  - Rude
+  - Nauseante
+  - Dura
+  - Insofferente
+  - Allontanante
+  - Sprezzante
+  - Offensiva
+
+## 7. Rabbia (Anger)
+- **Attributi rigidi**:
+  - Furiosa
+  - Intensa
+  - Aggressiva
+  - Determinata
+- **Attributi tipici**:
+  - Energica
+  - Frustrante
+  - Impetuosa
+  - Rivolta
+  - Dominante
+  - Potente
+  - Confrontativa
+  - Esplosiva
+
+## 8. Attesa (Anticipation)
+- **Attributi rigidi**:
+  - Sospesa
+  - Curiosa
+  - Incerta
+- **Attributi tipici**:
+  - Tesa
+  - Ansiosa
+  - Speranzosa
+  - Preparativa
+  - Previsionale
+  - Esplorativa
+  - Cauta
+  - Vigilante
