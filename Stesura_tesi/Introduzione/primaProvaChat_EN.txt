@@ -1,0 +1,11 @@
+Introduction
+
+In the digital age, recommendation systems are essential tools for enhancing user experiences, particularly in the music domain. However, many existing solutions rely on "black box" algorithms, such as deep neural networks, which lack transparency in their decision-making processes. Additionally, these systems are often prone to the so-called filter bubble effect, where users with similar preferences are repeatedly exposed to the same content, creating a feedback loop that limits diversity and fails to provide fully relevant recommendations.
+
+This project introduces a music recommendation system designed to overcome these limitations by leveraging ontological logic and explainable artificial intelligence (XAI). The proposed system not only eliminates the opacity typical of black-box algorithms but also avoids the formation of homogenous clusters, delivering personalized and meaningful suggestions grounded in the user's emotional state and intentions.
+
+The process begins by identifying the user’s current emotional state and their desired emotional trajectory. To ensure fast and intuitive interaction, the system employs four visual steps: selecting an emoticon representing one of Plutchik’s eight primary emotions, refining the selection through nuanced color customization, and conducting a situational analysis using images to better understand the user's sense of comfort and discomfort. These inputs are processed using an ontological analysis of emotions, incorporating rigid and probabilistic attributes supported by empirical survey data.
+
+The system then applies a direct mapping between emotional and musical attributes, utilizing a recommendation engine inspired by the "NervousGPT" project. This approach translates the user’s emotional state into musical characteristics, ensuring accurate and explainable suggestions. By eliminating the unexplained components and adopting a transparent logic, the system builds trust with users, enhancing the overall experience while providing a more genuine response to their emotional needs.
+
+This proposed system represents an innovative and sustainable solution that combines emotional experiences with music consumption, addressing the shortcomings of traditional recommendation systems and promoting greater diversity in suggestions.
